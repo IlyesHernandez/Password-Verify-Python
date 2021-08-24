@@ -1,7 +1,7 @@
 # Creation of 'password' and 'password_verify' variables
 
 password = input("Enter your password ")
-password_verify = input("Enter your password again")
+password_verify = input("Enter your password again ")
 
 if password == password_verify:
     print("Your account has been successfully created !")
